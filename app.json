@@ -1,7 +1,8 @@
+
 {
   "expo": {
-    "name": "ani-tab-bar",
-    "slug": "ani-tab-bar",
+    "name": "carte-menu-app-sliding-tab",
+    "slug": "carte-menu-app-sliding-tab",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +22,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "redesignedLogBox": true
     }
   }
 }
